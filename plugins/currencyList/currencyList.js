@@ -5,13 +5,13 @@ const fp = require("fastify-plugin");
 let currencies = [
   {
     id: "bitcoin",
-    name: "Btc",
+    name: "BTC",
     vs_currency: "btc",
   },
   {
     id: "ethereum",
-    name: "Eth",
-    vs_currency: "eth", 
+    name: "ETH",
+    vs_currency: "eth",
   },
   {
     id: "tether",
@@ -25,17 +25,17 @@ let currencies = [
   },
   {
     id: "litecoin",
-    name: "Ltc",
+    name: "LTC",
     vs_currency: "ltc",
   },
   {
     id: "bitshares",
-    name: "Bitshares",
+    name: "BITS",
     vs_currency: "bits",
   },
   {
     id: "bitcoin-cash",
-    name: "Bch",
+    name: "BCH",
     vs_currency: "bch",
   },
 ];
