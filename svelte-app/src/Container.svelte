@@ -169,10 +169,6 @@ option{
     height: 30px;
     padding: 2px;
 }
-.button{
-    display: flex;
-    justify-content: center;
-}
 
 .output{
     width: 300px;
